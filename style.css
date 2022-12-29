@@ -2,22 +2,8 @@ body {
     margin: 0;
     padding: 0;
     background-color: hsl(257, 40%, 49%);
+    background-size: cover;
     background-image: url(/images/bg-desktop.svg);
     color: white;
-}
-header {
-    height: 200px;
-}
-main {
-    margin-left: 50px;
-}
-footer {
-    height: 100px;
-}
-#main-left {
-    width: 800px;
-    height: 100%;
-    position: relative;
-    left: 50%;
-    box-sizing: border-box;
+    display: inline-block;
 }
