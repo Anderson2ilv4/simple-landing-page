@@ -7,3 +7,23 @@ body {
     color: white;
     display: inline-block;
 }
+#header {
+    height: 200px;
+}
+#img-logo {
+    margin: 70px;
+}
+#illustration {
+    width: 900px;
+    margin-left: 70px;
+}
+#main-left {
+    position: relative;
+    width: 1020px;
+    height: 600px;
+    border: solid 2px;
+}
+#main-right {
+    position: relative;
+    left: 900px;
+}
